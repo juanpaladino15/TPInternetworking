@@ -1,0 +1,1 @@
+g++ tradeclient.cpp Application.cpp Application.h getopt-repl.h -o mi_programa -I/usr/local/include/quickfix -L/usr/local/lib -lquickfix

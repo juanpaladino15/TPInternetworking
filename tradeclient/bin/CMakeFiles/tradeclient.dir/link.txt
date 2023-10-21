@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tradeclient.dir/Application.cpp.o CMakeFiles/tradeclient.dir/tradeclient.cpp.o -o tradeclient  -ltradeclientFIX 

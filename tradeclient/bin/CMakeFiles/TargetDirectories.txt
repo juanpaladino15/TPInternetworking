@@ -1,0 +1,4 @@
+/home/juancruz/Escritorio/tradeclient/bin/CMakeFiles/tradeclient.dir
+/home/juancruz/Escritorio/tradeclient/bin/CMakeFiles/tradeclient_target.dir
+/home/juancruz/Escritorio/tradeclient/bin/CMakeFiles/edit_cache.dir
+/home/juancruz/Escritorio/tradeclient/bin/CMakeFiles/rebuild_cache.dir
